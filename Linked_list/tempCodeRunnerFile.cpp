@@ -1,0 +1,1 @@
+while(tempa ->next == NULL) 
